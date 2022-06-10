@@ -50,6 +50,7 @@ body{
     flex-wrap: wrap;
     margin-left: 360px;
     margin-top: 20px;
+    color:green;
 }
 .weathercard .weatherIcon{
     flex: 1 100%;
